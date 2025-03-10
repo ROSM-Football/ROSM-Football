@@ -1,0 +1,50 @@
+/*This is my first CSS comment */
+
+body {
+
+
+}
+
+ h1{
+    font-size: 70px;
+    color:white;
+    background-color: blue;
+    text-align: center;
+ }
+h3{
+   margin:0;
+}
+
+.top-section{
+   background-color:whitesmoke;
+ 
+   margin-left: 15px;
+   margin-right: 15px;
+   border:3px solid blue;
+   padding:4px;
+   font-size: large;
+   outline: 2px solid black;
+
+}
+
+
+.bottom-section{
+
+   background-image: url(..//images/St.\ Mary\ High\ School6.jpg);
+   background-repeat:  no-repeat;
+   background-position: right bottom;
+
+ 
+}
+
+/*
+.intro{
+
+   font-size: 25px;
+}
+ 
+ CSS Box Model - three part 
+Margin
+Padding
+Border*/
+

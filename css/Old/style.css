@@ -1,0 +1,33 @@
+body {
+background-color: 
+rgb(105, 119, 197); 
+color: black;
+font-size: 21px;
+}
+
+p {
+    color: green;
+ }
+
+ h1{
+    font-size: 70px;
+    color:white;
+ }
+
+ .top-section{
+    background-color: green;
+ }
+
+ .bottom-section{
+    background-color: yellow;
+    color:black;
+    
+ }
+ .intro{
+    color:yellow;
+ } 
+
+ .winston{
+   color:red;
+   font-size: 30px;
+ }

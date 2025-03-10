@@ -1,0 +1,67 @@
+/*This is my first CSS comment */
+
+body {
+
+background-image:url(../images/History\ of\ ROSM\ Football.jpg);
+height: 675px;
+width: 1200px;
+/*background-size: auto;*/
+ 
+ 
+
+}
+
+ h1{
+    font-size: 70px;
+    color:white;
+    background-color: blue;
+    text-align: center;
+ }
+h3{
+   margin:0;
+}
+
+.top-section{
+   background-color:whitesmoke;
+  /*margin-left: 15px;
+   margin-right: 15px; 
+   padding:4px;*/
+ 
+   margin: 0;
+   border:3px solid blue;
+   position: relative;
+   top: 0%;
+   left: 50%;
+   padding: 10px; 
+   transform: translate(-50%, -50%);
+   font-size: medium;
+   outline: 2px solid black;
+  /* width: 1250px; */
+  width: auto%;
+  height: auto%;
+
+}
+
+.center{
+   border: 5px solid;
+   margin: auto;
+   width: 50%;
+   padding: 10px;
+   transform: translate(-50%, -50%);
+}
+
+
+.bottom-section{
+   background-color: brown;
+}
+/*
+.intro{
+
+   font-size: 25px;
+}
+ 
+ CSS Box Model - three part 
+Margin
+Padding
+Border*/
+
