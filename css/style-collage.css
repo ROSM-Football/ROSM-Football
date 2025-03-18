@@ -41,7 +41,7 @@ input[type=checkbox]:checked ~ label > img
 
 }
 
-
+/*
 .top-section{
    background-color:whitesmoke;
  
@@ -50,7 +50,7 @@ input[type=checkbox]:checked ~ label > img
    font-size: large;
    outline: 2px solid black;
     
-}
+}*/
 .top-section img{
    
      width: 100%;  
