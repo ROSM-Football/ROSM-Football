@@ -563,15 +563,15 @@ td
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:center;
-	vertical-align:top;}
+	vertical-align:top;
+	white-space:normal;}
 .xl120
 	{mso-style-parent:style16;
 	color:#0563C1;
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:center;
-	vertical-align:top;
-	white-space:normal;}
+	vertical-align:top;}
 .xl121
 	{mso-style-parent:style0;
 	text-align:left;
