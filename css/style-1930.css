@@ -42,6 +42,16 @@ input[type=checkbox]:checked ~ label > img
 
 }
 
+.video-container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;    /* Centers vertically */
+}
+video {
+  max-width: 80%;
+  height: auto;
+}
+
 .top-section{
    background-color:whitesmoke;
    margin-left: 15px;
